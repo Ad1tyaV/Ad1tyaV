@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development.
 - 👀 I’m familiar with Django Rest Framework on backend and React JS, React Native, Flutter on frontend.
 - 🌱 I’m currently exploring Cloud.
-- 💞️ I’m looking to collaborate on building a couple of cool applications from scratch.
+- 💞️ I’m looking to collaborate on building cool and useful applications from scratch.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/aditya-vadrevu/">LinkedIn</a>
 
 <!---
