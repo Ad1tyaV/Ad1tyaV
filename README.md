@@ -4,7 +4,7 @@
 - 👀 I predominantly use C++ for problem solving for DSA, I'm also decent with Java and Python.
 - 🌱 I’m currently exploring Cloud.
 - 💞️ I’m looking to collaborate on building cool and useful applications from scratch.
-- 📫 How to reach me <a href="https://www.linkedin.com/in/aditya-vadrevu/">LinkedIn</a>
+- 📫 Reachable @ <a href="https://www.linkedin.com/in/aditya-vadrevu/">LinkedIn</a>
 
 <!---
 Ad1tyaV/Ad1tyaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
