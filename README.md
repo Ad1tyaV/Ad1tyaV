@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on building cool and useful applications from scratch.
 - 📫 Reachable @ <a href="https://www.linkedin.com/in/aditya-vadrevu/">LinkedIn</a>
 
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1tyav)](https://github.com/ad1tyav/github-readme-stats)
+
 <!---
 Ad1tyaV/Ad1tyaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
